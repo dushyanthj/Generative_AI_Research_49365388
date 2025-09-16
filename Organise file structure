@@ -1,0 +1,32 @@
+Generative_AI_Research_49365388/
+│
+├── Literature_Review/
+│   ├── Journal_Articles/
+│   ├── Conference_Papers/
+│   ├── Books/
+│   └── Newspaper_Articles/
+│
+├── Quantitative_Analysis/
+│   ├── Survey_Data/
+│   ├── Survey_Questions/
+│   ├── Python_Scripts/
+│   ├── CSV_Files/
+│   ├── Excel_Files/
+│   └── Survey_Analysis_Report.pdf
+│
+├── Qualitative_Analysis/
+│   ├── Interview_Transcripts/
+│   ├── Interview_Protocols/
+│   ├── Consent_Forms/
+│   ├── Analysis_Report.pdf
+│   └── Data_Visualisations/
+│
+├── Drafts_Reports/
+│   ├── Research_Proposals/
+│   ├── Conference_Papers/
+│   └── Final_Reports/
+│
+└── Additional_Materials/
+    ├── Information_Sheets/
+    ├── Photos/
+    └── Other_Media/
